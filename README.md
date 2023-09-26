@@ -8,7 +8,7 @@
  height="auto" />
 
 ## About this Game
-Hell Broke Loose is a wave-based zombie survival first person shooter. You find yourself the lone survivor of a botched expidition into Pripyat, an abonded atomgrad in the Zone around Chernobyl. It was supposed to be a ghost city, but not in the literal sense. Pripyat crawls with the undead now and your only hope is to shoot your way out!
+Hell Broke Loose is a wave-based zombie survival first person shooter. You find yourself the lone survivor of a botched expedition into Pripyat, an abandoned atomgrad in the Zone around Chernobyl. It was supposed to be a ghost city, but not in the literal sense. Pripyat crawls with the undead now and your only hope is to shoot your way out!
 
 <img src = "https://github.com/Atoms-x/Hell-Broke-Loose/assets/8111664/5d9cb52f-c39a-41c5-9935-269812b1579a" 
  width="1368"
